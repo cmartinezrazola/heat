@@ -7,7 +7,5 @@ For reference check the book 'Heat Transfer' - Alain J.Chapman.
 The authors of this code are former students at the ETSII 
 in the Polytechnic University of Madrid.
 
-escribo B sigo en master
-
-escribo A
+sigo en master
 
